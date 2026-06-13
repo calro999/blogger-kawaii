@@ -1,0 +1,37 @@
+import os
+import sys
+from kawaii_blogger import generate_article_with_llm
+
+def test_main():
+    print("Starting verification test for blogger-kawaii (LLM generation only)...")
+    
+    # GITHUB_TOKEN または GH_TOKEN が設定されているか確認（ない場合はPollinations AIがフォールバックとして使われます）
+    github_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if not github_token:
+        print("Notice: GITHUB_TOKEN is not set. Will fallback to Pollinations AI (mistral/openai).")
+
+    # ダミー商品データ
+    dummy_item = {
+        "itemName": "【日本未発売・海外限定モデル】ハローキティ 50周年アニバーサリー ゴールドクラウン プレミアムぬいぐるみ",
+        "itemPrice": "24800",
+        "itemUrl": "https://item.rakuten.co.jp/dummy/kitty-50th/",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/dummy/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdummy%2Fkitty-50th%2F",
+        "mediumImageUrls": ["https://thumbnail.image.rakuten.co.jp/@0_mall/dummy/cabinet/kitty50th.jpg"]
+    }
+        
+    try:
+        # LLMで記事生成
+        print("Generating article with LLM...")
+        content = generate_article_with_llm(dummy_item)
+        
+        print("\n=== GENERATED ARTICLE HTML ===")
+        print(content)
+        print("==============================\n")
+        print("Verification completed successfully!")
+
+    except Exception as e:
+        print(f"Error during verification: {e}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    test_main()
