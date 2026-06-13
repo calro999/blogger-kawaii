@@ -1,5 +1,6 @@
 import os
 import random
+import re
 import requests
 import time
 from google.oauth2.credentials import Credentials
@@ -68,6 +69,10 @@ def generate_article_with_llm(item):
         small_images = item.get("smallImageUrls", [])
         if small_images:
             image_url = small_images[0]
+
+    if image_url:
+        # 楽天画像URLのサイズ指定パラメータ (?_ex=128x128 等) を置換して大きいサイズにする
+        image_url = re.sub(r'\?_ex=\d+x\d+', '?_ex=500x500', image_url)
 
     prompt = f"""以下の楽天の商品情報を基にして、自動投稿用のHTML記事を生成してください。
 【商品名】: {title}
