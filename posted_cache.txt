@@ -27,3 +27,4 @@ mixhana:10008836
 capital-kyoto:10000384
 mixhana:10008835
 realize-store:10521605
+mixhana:10008270
