@@ -24,3 +24,4 @@ hobbyzakka-cha3:10005747
 realize-store:10521570
 realize-store-2:10084856
 mixhana:10008836
+capital-kyoto:10000384
