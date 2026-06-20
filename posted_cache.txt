@@ -35,3 +35,4 @@ realize-store-2:10084872
 realize-store-2:10084948
 realize-store:10521629
 auc-yanchars:10013266
+meiaistore:10001207
