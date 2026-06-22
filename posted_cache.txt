@@ -39,3 +39,4 @@ meiaistore:10001207
 realize-store-2:10085067
 mixhana:10008271
 mixhana:10008833
+meiaistore:10001208
