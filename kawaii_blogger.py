@@ -460,18 +460,29 @@ def generate_room_comment_with_llm(item):
 
 
 def post_to_rakuten_room(item_code, comment):
-    session_b64 = os.environ.get("ROOM_SESSION_B64") or os.environ.get("BLOGGER_SESSION_B64")
+    room_session = os.environ.get("ROOM_SESSION_B64")
+    blogger_session = os.environ.get("BLOGGER_SESSION_B64")
+    
+    session_b64 = None
+    if room_session and room_session.strip():
+        print("Using ROOM_SESSION_B64 for Rakuten Room.")
+        session_b64 = room_session
+    elif blogger_session and blogger_session.strip():
+        print("ROOM_SESSION_B64 is empty. Using BLOGGER_SESSION_B64 as fallback for Rakuten Room.")
+        session_b64 = blogger_session
     
     session_file_path = None
     if session_b64:
         try:
             decoded_str = base64.b64decode(session_b64).decode('utf-8')
+            if "rakuten.co.jp" not in decoded_str and "rakuten.com" not in decoded_str:
+                print("Warning: The resolved session JSON does not seem to contain Rakuten cookies. Login to Rakuten Room might fail.")
             json.loads(decoded_str)
             with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", delete=False, suffix=".json") as temp_file:
                 temp_file.write(decoded_str)
                 session_file_path = temp_file.name
         except Exception as e:
-            print(f"ROOM_SESSION_B64 (or BLOGGER_SESSION_B64) decode failed: {e}")
+            print(f"Session decode failed: {e}")
             return
     elif os.path.exists("session.json"):
         print("Found local session.json. Using it for Rakuten Room.")
@@ -501,6 +512,11 @@ def post_to_rakuten_room(item_code, comment):
                 warp_url = f"https://room.rakuten.co.jp/mix?itemcode={item_code}&scid=we_room_upc60"
                 page.goto(warp_url, wait_until="load", timeout=45000)
                 time.sleep(4)
+
+                # ログイン画面に飛ばされていないかチェック
+                if "login.rakuten.co.jp" in page.url or "login" in page.url.lower():
+                    print("Error: Session has expired or is invalid. Redirected to Rakuten login page. Skipping Rakuten Room post.")
+                    return
 
                 # 重複・すでにコレしているかチェック
                 page_html = page.content()
