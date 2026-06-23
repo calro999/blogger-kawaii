@@ -42,7 +42,9 @@ def fetch_rakuten_item():
     if not app_id or not access_key:
         raise ValueError("RAKUTEN_APP_ID and RAKUTEN_ACCESS_KEY must be set in environment variables.")
 
-    keyword = "サンリオ レア"
+    attributes = ["レア", "限定", "かわいい", "ぬいぐるみ", "新作", "コラボ", "バッグ", "マスコット", "雑貨"]
+    selected_attribute = random.choice(attributes)
+    keyword = f"サンリオ {selected_attribute}"
     print(f"Searching Rakuten for keyword: {keyword}")
 
     url = "https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260401"
@@ -70,7 +72,9 @@ def fetch_rakuten_item():
         if item_code and item_code not in posted_cache:
             return item
 
-    raise RuntimeError("All fetched items have already been posted.")
+    # すべて投稿済みだった場合は、エラーにせず最初の1件を強制的に投稿対象としてフォールバックする
+    print("Warning: All fetched items have already been posted. Falling back to the first item from search results.")
+    return items[0].get("Item", {})
 
 def generate_article_with_llm(item):
     title = item.get("itemName")
