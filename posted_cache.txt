@@ -50,3 +50,4 @@ rianashop:10002764
 festival-plaza:10053016
 futon:10071494
 riakei:10000580
+yancomstore:10002143
