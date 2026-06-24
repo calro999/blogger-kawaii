@@ -53,3 +53,4 @@ riakei:10000580
 yancomstore:10002143
 capital-kyoto:10003143
 hanko-otobe:10008467
+litoha-ec:10000315
