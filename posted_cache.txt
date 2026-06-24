@@ -54,3 +54,4 @@ yancomstore:10002143
 capital-kyoto:10003143
 hanko-otobe:10008467
 litoha-ec:10000315
+stylife:15616442
