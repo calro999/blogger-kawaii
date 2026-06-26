@@ -69,3 +69,4 @@ monobe-:10000214
 picoanna:10002556
 familystone:10012081
 riakei:10000580
+ginnokura:10066449
