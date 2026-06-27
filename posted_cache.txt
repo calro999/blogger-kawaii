@@ -72,3 +72,4 @@ riakei:10000580
 ginnokura:10066449
 rianashop:10004022
 bibi-max:10007054
+usagi-online:10065273
