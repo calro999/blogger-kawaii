@@ -80,3 +80,4 @@ yamakawa-slipper:10000036
 hauhau:10028831
 stylife:15104208
 usagi-online:10065270
+hanko-otobe:10008468
