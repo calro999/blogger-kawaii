@@ -76,3 +76,4 @@ usagi-online:10065273
 garrettstor:10001011
 rianashop:10004022
 stylife:15616461
+yamakawa-slipper:10000036
