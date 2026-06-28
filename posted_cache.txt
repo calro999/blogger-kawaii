@@ -86,3 +86,4 @@ riakei:10000580
 stylife:15616086
 hauhau:10028832
 orbis-shop:10000791
+rianashop:10004022
