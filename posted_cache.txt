@@ -98,3 +98,4 @@ alphakids:10429612
 familystone:10013214
 hanko-otobe:10008469
 union-stores:10007957
+ezaki-g:10285421
