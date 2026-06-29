@@ -100,3 +100,4 @@ hanko-otobe:10008469
 union-stores:10007957
 ezaki-g:10285421
 capital-kyoto:10005338
+gretsch:10029304
