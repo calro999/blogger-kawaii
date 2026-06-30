@@ -101,3 +101,4 @@ union-stores:10007957
 ezaki-g:10285421
 capital-kyoto:10005338
 gretsch:10029304
+veol:10000820
