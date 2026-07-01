@@ -117,3 +117,4 @@ exmail:10003033
 footone:10038626
 capital-kyoto:10005394
 cocobeaumo:10001284
+a-gogo-wear:10005992
