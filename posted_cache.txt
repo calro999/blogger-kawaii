@@ -125,3 +125,4 @@ hobisuto:10011712
 usagi-online:10065429
 auc-yanchars:10013243
 akgshop:10033206
+o-kawaya:10112553
