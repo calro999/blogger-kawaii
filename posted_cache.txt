@@ -120,3 +120,4 @@ cocobeaumo:10001284
 a-gogo-wear:10005992
 book:21480545
 riakei:10000580
+capital-kyoto:10003199
