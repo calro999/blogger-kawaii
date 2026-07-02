@@ -123,3 +123,4 @@ riakei:10000580
 capital-kyoto:10003199
 hobisuto:10011712
 usagi-online:10065429
+auc-yanchars:10013243
