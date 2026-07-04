@@ -145,3 +145,4 @@ pattys7:10008541
 capital-kyoto:10005380
 orbis-shop:10000246
 mediacover:10077986
+def-store:10002429
