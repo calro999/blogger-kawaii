@@ -143,3 +143,4 @@ mirakikaku:10020928
 stylife:15704676
 pattys7:10008541
 capital-kyoto:10005380
+orbis-shop:10000246
