@@ -161,3 +161,4 @@ perfectworld-tokyo:10315756
 sanrio:10080684
 realize-store:10441319
 perfectworld-tokyo:10315130
+rianashop:10004022
