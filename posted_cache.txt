@@ -169,3 +169,4 @@ stylife:15393318
 litoha-ec:10000310
 stylife:15104301
 apron-gift:10000458
+yoikutsu:10039648
