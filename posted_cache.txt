@@ -210,3 +210,4 @@ perfectworld-tokyo:10315155
 eighthundredships:10017207
 alohadiaries:10002956
 filmyasan:10011635
+capital-kyoto:10004936
