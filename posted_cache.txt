@@ -218,3 +218,4 @@ realize-store-2:10126980
 veol:10000826
 bigapple:10000999
 laughlaugh:10407763
+stella-shop2032:10000077
