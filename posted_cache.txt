@@ -234,3 +234,4 @@ auc-e-kidstown:10021217
 aromacoffee:10053455
 superfoot:10003726
 auc-treasuremarket:10040721
+usagi-online:10065213
