@@ -259,3 +259,4 @@ cinemacollection:10446676
 realize-store:10521557
 takeiteasy:10077170
 acqua-calda:10008134
+arekore-ya:10002087
