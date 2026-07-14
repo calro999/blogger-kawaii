@@ -252,3 +252,4 @@ bunsute:10019849
 realize-store:10521557
 pfdc:10127578
 superfoot-2:10005266
+capital-kyoto:10000150
