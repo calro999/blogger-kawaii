@@ -254,3 +254,4 @@ pfdc:10127578
 superfoot-2:10005266
 capital-kyoto:10000150
 takeiteasy:10077172
+capital-kyoto:10005149
