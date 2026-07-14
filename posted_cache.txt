@@ -256,3 +256,4 @@ capital-kyoto:10000150
 takeiteasy:10077172
 capital-kyoto:10005149
 cinemacollection:10446676
+realize-store:10521557
