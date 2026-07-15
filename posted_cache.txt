@@ -272,3 +272,4 @@ sime-fabric:10008537
 cinemacollection:10461731
 mixhana:10008834
 at-ptr:10027056
+capital-kyoto:10000150
