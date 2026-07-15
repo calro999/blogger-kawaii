@@ -263,3 +263,4 @@ arekore-ya:10002087
 happy-sunrise:10002007
 pfdc:10127588
 stylife:15642576
+connectgate:10034228
