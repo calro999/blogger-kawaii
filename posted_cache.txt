@@ -266,3 +266,4 @@ stylife:15642576
 connectgate:10034228
 fuseya-note:10029430
 kcplace:10003672
+shop-size:10014919
