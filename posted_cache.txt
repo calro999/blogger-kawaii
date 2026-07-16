@@ -276,3 +276,4 @@ capital-kyoto:10000150
 superfoot:10003716
 miraiya1818:10002553
 hobisuto:10011123
+usagi-online:10065214
