@@ -281,3 +281,4 @@ usagi-online:10065317
 hobisuto:10011946
 realize-store:10521557
 capital-kyoto:10000150
+smltrading:10000476
