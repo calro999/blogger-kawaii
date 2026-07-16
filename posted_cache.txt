@@ -280,3 +280,4 @@ usagi-online:10065214
 usagi-online:10065317
 hobisuto:10011946
 realize-store:10521557
+capital-kyoto:10000150
