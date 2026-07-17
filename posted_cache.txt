@@ -289,3 +289,4 @@ velkommen:10509940
 usagi-online:10067642
 capital-kyoto:10000150
 realize-store:10521557
+capital-kyoto:10000150
