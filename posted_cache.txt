@@ -297,3 +297,4 @@ capital-kyoto:10000150
 realize-store-2:10084856
 perfectworld-tokyo:10314202
 cieldeneige:10011803
+capital-kyoto:10004933
