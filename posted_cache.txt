@@ -287,3 +287,4 @@ usagi-online:10069200
 auc-generalsticker:10015200
 velkommen:10509940
 usagi-online:10067642
+capital-kyoto:10000150
