@@ -292,3 +292,4 @@ realize-store:10521557
 capital-kyoto:10000150
 fzone:10626059
 ps-park:10001379
+w-col:10053872
