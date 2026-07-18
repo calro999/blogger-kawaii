@@ -301,3 +301,4 @@ capital-kyoto:10004933
 fzone:10665705
 amachan234:10004427
 mm-pop:10339715
+arekore-ya:10002075
