@@ -299,3 +299,4 @@ perfectworld-tokyo:10314202
 cieldeneige:10011803
 capital-kyoto:10004933
 fzone:10665705
+amachan234:10004427
