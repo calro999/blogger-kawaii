@@ -313,3 +313,4 @@ w-col:10016563
 morimotosangyo:10000820
 superfoot-2:10005268
 setomono:10834543
+auc-generalsticker:10016215
