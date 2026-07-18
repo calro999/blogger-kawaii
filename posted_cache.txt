@@ -308,3 +308,4 @@ w-col:10056692
 capital-kyoto:10000150
 hobisuto:10011112
 mixhana:10008834
+capital-kyoto:10003197
