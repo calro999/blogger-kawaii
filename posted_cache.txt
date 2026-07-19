@@ -314,3 +314,4 @@ morimotosangyo:10000820
 superfoot-2:10005268
 setomono:10834543
 auc-generalsticker:10016215
+capital-kyoto:10000150
