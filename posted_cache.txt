@@ -335,3 +335,4 @@ realize-store:10521557
 familystone:10004863
 capital-kyoto:10005339
 w-col:10028790
+auc-treasuremarket:10044779
