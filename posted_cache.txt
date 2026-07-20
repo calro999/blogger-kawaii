@@ -336,3 +336,4 @@ familystone:10004863
 capital-kyoto:10005339
 w-col:10028790
 auc-treasuremarket:10044779
+capital-kyoto:10000150
