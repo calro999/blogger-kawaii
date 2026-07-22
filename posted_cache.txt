@@ -352,3 +352,4 @@ w-col:10031514
 mayakasai:10012683
 mixhana:10008834
 bunsute:10019850
+plantashop:10014797
