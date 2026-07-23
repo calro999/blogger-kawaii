@@ -366,3 +366,4 @@ ujitawara-seichajyo:10000384
 capital-kyoto:10000150
 futon:10071494
 futon:10071494
+futon:10071494
