@@ -388,3 +388,4 @@ w-col:10033120
 capital-kyoto:10000150
 familystone:10004863
 familystone:10004863
+familystone:10004863
