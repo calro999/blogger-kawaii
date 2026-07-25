@@ -385,3 +385,4 @@ takeiteasy:10077997
 familystone:10004863
 yoikutsu:10039647
 w-col:10033120
+capital-kyoto:10000150
