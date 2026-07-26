@@ -404,3 +404,4 @@ pop-mart-japan:10004628
 capital-kyoto:10000150
 plus-market:10051051
 riakei:10000580
+riakei:10000580
