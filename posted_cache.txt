@@ -406,3 +406,4 @@ plus-market:10051051
 riakei:10000580
 riakei:10000580
 riakei:10000580
+sutetuchi:10002923
