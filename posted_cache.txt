@@ -418,3 +418,4 @@ mercatostore:10001971
 stylife:15616910
 capital-kyoto:10000150
 futon:10071494
+lovesweet:10090490
