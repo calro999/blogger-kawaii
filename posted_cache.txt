@@ -412,3 +412,4 @@ auc-youstyle:10069444
 plmarket:10002771
 familystone:10004863
 w-col:10056649
+capital-kyoto:10000150
