@@ -416,3 +416,4 @@ capital-kyoto:10000150
 riakei:10000580
 mercatostore:10001971
 stylife:15616910
+capital-kyoto:10000150
