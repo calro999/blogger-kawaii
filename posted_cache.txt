@@ -421,3 +421,4 @@ futon:10071494
 lovesweet:10090490
 office31:10031343
 capital-kyoto:10000150
+riakei:10000580
