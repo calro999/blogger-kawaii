@@ -430,3 +430,4 @@ pfdc:10127574
 kanaken:10003244
 lovesweet:10099258
 futon:10071494
+ginnokura:10058446
