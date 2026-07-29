@@ -440,3 +440,4 @@ capital-kyoto:10000150
 pfdc:10127565
 futon:10071494
 riakei:10000580
+stylife:15595011
