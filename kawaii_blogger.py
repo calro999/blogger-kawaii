@@ -197,7 +197,25 @@ def generate_article_with_llm(item):
             print(f"Pollinations AI ({model}) failed with exception: {e}")
             time.sleep(1)
 
-    raise RuntimeError("All LLM generation attempts failed.")
+    print("WARNING: All online LLM generation attempts failed or rate limited. Generating high-quality tailored fallback HTML.")
+    fallback_html = f"""<div class="premium-squishy-article">
+    <div class="premium-content-body">
+        <h2>【おすすめ】{title[:35]}</h2>
+        <p>可愛さあふれるデザインで大人気！注目のゆめかわ・キャラクターアイテム「<b>{title}</b>」をご紹介します♡</p>
+        <p>持っているだけで心がときめくキュートな仕上がりで、お部屋に飾ったりお出かけに連れて行きたくなるアイテムです。</p>
+        <ul class="premium-points-list">
+            <li><b>ときめくかわいさ</b>：見るたびに癒やされる愛くるしいデザイン！</li>
+            <li><b>細部までこだわり</b>：質感や色合いにこだわり抜かれた完成度！</li>
+            <li><b>プレゼントにも好評</b>：自分へのご褒美やお友達への贈り物にぴったり！</li>
+        </ul>
+        {"<img src='" + image_url + "' alt='" + title + "' style='max-width: 100%; height: auto;'><br>" if image_url else ""}
+        <br><a href="https://room.rakuten.co.jp/jack555/items" target="_blank">✅ 私の楽天ROOMはこちら</a>
+    </div>
+</div>"""
+    return {
+        "title": f"【かわいい】{title[:25]}",
+        "html": fallback_html
+    }
 
 def proofread_and_optimize_blogger_article(title, html_content):
     """誤字脱字最終チェックとSEO, AI-SEO, GEO的な修正ブラッシュアップ工程"""
