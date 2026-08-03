@@ -473,3 +473,4 @@ stylife:15742358
 perfectworld-tokyo:10315753
 superfoot-2:10005261
 familystone:10004863
+usagi-online:10065293
