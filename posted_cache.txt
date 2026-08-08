@@ -518,3 +518,4 @@ luxelayerlook:10010745
 kanfudo:10000145
 3qshop:10006214
 clown-b:10001578
+kantolifeshop:10002548
