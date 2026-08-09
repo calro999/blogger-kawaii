@@ -548,3 +548,4 @@ hokkaido-bussankan:10001416
 rainbowbridge:10001699
 rainbowbridge:10001702
 fairy-hama:10006917
+hou-a:10000399
