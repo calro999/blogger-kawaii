@@ -640,3 +640,4 @@ ent-select:10003066
 zestnationjapan-03:10380900
 3set:10011211
 festival-plaza:10067030
+shimataro:10000188
