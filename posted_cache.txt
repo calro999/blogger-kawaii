@@ -665,3 +665,4 @@ aoi-depart:10205114
 officeconnect:10000980
 aoi-depart:10205113
 shimataro:10000510
+rainbowbridge:10001694
