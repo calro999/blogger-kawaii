@@ -686,3 +686,4 @@ happyalice2020:10000912
 manetstore:10005711
 gosunwood:10008355
 gosunwood:10008161
+morigawa1019:10000814
