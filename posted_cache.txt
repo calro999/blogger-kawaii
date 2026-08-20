@@ -689,3 +689,4 @@ gosunwood:10008161
 morigawa1019:10000814
 ent-select:10007395
 wf-shopping365:10014773
+kimiai:10020089
