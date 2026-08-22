@@ -692,3 +692,4 @@ wf-shopping365:10014773
 kimiai:10020089
 manetstore:10003087
 lutella:10011758
+hanahanashop:10004684
