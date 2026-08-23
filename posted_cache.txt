@@ -694,3 +694,4 @@ manetstore:10003087
 lutella:10011758
 hanahanashop:10004684
 tamsmuu:10000667
+hokkaido-bussankan:10011718
