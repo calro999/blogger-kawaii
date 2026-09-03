@@ -712,3 +712,4 @@ josho-shop5:10006600
 watch-me:10017720
 gosunwood:10008376
 rapites:10023091
+futaba-corp:10007319
