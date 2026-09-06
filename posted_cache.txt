@@ -735,3 +735,4 @@ pakkun:10001120
 shimataro:10000393
 papass:10006045
 shimataro:10000151
+laxshop:10042353
