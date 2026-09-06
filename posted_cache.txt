@@ -732,3 +732,4 @@ ps-direct:10049485
 artezakka:10122383
 hatshop:10005691
 pakkun:10001120
+shimataro:10000393
