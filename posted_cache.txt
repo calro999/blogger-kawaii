@@ -734,3 +734,4 @@ hatshop:10005691
 pakkun:10001120
 shimataro:10000393
 papass:10006045
+shimataro:10000151
