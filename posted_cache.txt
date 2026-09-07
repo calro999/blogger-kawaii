@@ -738,3 +738,4 @@ shimataro:10000151
 laxshop:10042353
 tenyo-shop1:10000193
 your-sales-shop:10407447
+signwhite:10000755
