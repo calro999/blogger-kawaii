@@ -742,3 +742,4 @@ signwhite:10000755
 akgshop:10019873
 shimataro:10000523
 alphakids:10445340
+shimataro:10000509
