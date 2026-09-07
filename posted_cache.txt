@@ -740,3 +740,4 @@ tenyo-shop1:10000193
 your-sales-shop:10407447
 signwhite:10000755
 akgshop:10019873
+shimataro:10000523
