@@ -747,3 +747,4 @@ anomaly:10006259
 gosunwood:10007659
 elelerueru:10009134
 yuki23:10002134
+luxorx:10008011
