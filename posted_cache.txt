@@ -755,3 +755,4 @@ seventreasure:10000617
 second-stage01:10018243
 kyoto-hana:10007665
 ray566:10000719
+korokoro-shop:10012170
