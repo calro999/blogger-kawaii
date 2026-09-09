@@ -751,3 +751,4 @@ luxorx:10008011
 c-lanlan:10030488
 clown-b:10001630
 kishi-gum:10032569
+seventreasure:10000617
