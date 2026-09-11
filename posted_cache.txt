@@ -767,3 +767,4 @@ penshiru:10226860
 auc-yumishop:10027851
 nihontakaragai:10000175
 miyabi99:10014159
+kato-shoten-japan:10003647
