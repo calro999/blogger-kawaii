@@ -771,3 +771,4 @@ kato-shoten-japan:10003647
 z-craft:10147900
 alice00:10005015
 shimataro:10000515
+auc-my-mama:10034817
