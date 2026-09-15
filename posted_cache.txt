@@ -792,3 +792,4 @@ possee:10000156
 kuresonstore:10000082
 hokkaido-bussankan:10001589
 korokoro-shop:10010613
+elelerueru:10008665
