@@ -793,3 +793,4 @@ kuresonstore:10000082
 hokkaido-bussankan:10001589
 korokoro-shop:10010613
 elelerueru:10008665
+kirakiramart2025:10004322
