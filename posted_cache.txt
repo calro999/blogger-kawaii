@@ -806,3 +806,4 @@ lecolza:10005624
 clown-b:10001647
 vaps:10188035
 tenyo-shop1:10000194
+ideazakkaten:10000336
