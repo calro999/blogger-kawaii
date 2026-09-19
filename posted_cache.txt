@@ -818,3 +818,4 @@ vaps2shop:10010862
 wasshoi-mura:10020637
 yy-battery:10001735
 oroshi-ee:10013352
+auc-my-mama:10032487
