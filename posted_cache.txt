@@ -831,3 +831,4 @@ futaba-corp:10007300
 applecollection:10058072
 auc-hanabiya-gekiyasu:10007181
 craft-bplabo:10002309
+yasutokushop:10002360
