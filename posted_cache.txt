@@ -856,3 +856,4 @@ aoi-depart:10435868
 fashionabc:10006368
 lunamart:10006194
 kinyoshop:10000039
+bonuru:10000063
