@@ -872,3 +872,4 @@ wawawashop2025:10002936
 vaps2shop:10010860
 hpy337:10012793
 realize-store-2:10143793
+robotplaza:10001063
