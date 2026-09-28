@@ -869,3 +869,4 @@ backyard:10369915
 okashashop:10510149
 penshiru:10226866
 wawawashop2025:10002936
+vaps2shop:10010860
