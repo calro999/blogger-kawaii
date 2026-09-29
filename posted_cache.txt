@@ -875,3 +875,4 @@ realize-store-2:10143793
 robotplaza:10001063
 hiroland:10000789
 rainbowbridge:10001794
+clown-b:10001633
