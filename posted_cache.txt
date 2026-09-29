@@ -877,3 +877,4 @@ hiroland:10000789
 rainbowbridge:10001794
 clown-b:10001633
 charmy-sanyoh:10281555
+kuresonstore:10000073
