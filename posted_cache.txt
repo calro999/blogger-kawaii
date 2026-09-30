@@ -882,3 +882,4 @@ vexia:10000902
 sugarlight:10046700
 onko:10005029
 penshiru:10226933
+shimataro:10000516
