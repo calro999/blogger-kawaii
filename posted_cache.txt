@@ -888,3 +888,4 @@ eminencestore:10000187
 yskmarket:10003170
 hypnos:10020527
 schooltown:10000770
+chuwacorp0618:10038452
