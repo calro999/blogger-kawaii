@@ -903,3 +903,4 @@ aoi-depart:10237492
 smilekankyo1:10000144
 fampa:10001863
 onehealth:10000886
+discount-store-ufi:10005012
