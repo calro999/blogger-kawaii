@@ -920,3 +920,4 @@ cocosuner:10003356
 fashionhime:10035667
 eirigoods:10000736
 m-si-ring:10006550
+mina-shop:10008052
