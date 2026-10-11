@@ -946,3 +946,4 @@ pa-select:10007212
 smilekankyo1:10000147
 being-camerastore1:10002842
 dochoshop:10002315
+hakuaiya:10002945
