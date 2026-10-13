@@ -962,3 +962,4 @@ highhope:10012292
 goodgoodsshop:10000824
 festival-plus:10072702
 dkhshop0228:10009452
+yuki23:10002324
