@@ -989,3 +989,4 @@ kantolifeshop:10002549
 festival-plaza:10061061
 charmy-sanyoh:10281626
 nishi-ryutu:10095212
+pivot-sanyoh:10274143
