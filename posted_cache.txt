@@ -1053,3 +1053,4 @@ rise-shop-mysite:10004597
 nishi-ryutu:10095216
 coconut1992:10005449
 kayotoys:10000280
+hokkaido-bussankan:10001249
