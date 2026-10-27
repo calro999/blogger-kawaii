@@ -1065,3 +1065,4 @@ sanyodo-shop:10047676
 kuriesu:10004954
 hasukii:10008919
 trendyboutique:10006967
+festival-plaza:10041040
