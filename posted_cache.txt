@@ -1062,3 +1062,4 @@ discount-store-ufi:10004648
 brother1990:10006958
 lotus-sound:10038038
 sanyodo-shop:10047676
+kuriesu:10004954
