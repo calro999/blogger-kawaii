@@ -1091,3 +1091,4 @@ nassia:10000634
 gosunwood:10007566
 setmarket:10002691
 mion0123:10001458
+kingstoreannex3:10001477
