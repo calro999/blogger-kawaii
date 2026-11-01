@@ -1093,3 +1093,4 @@ setmarket:10002691
 mion0123:10001458
 kingstoreannex3:10001477
 mintmode:10097372
+vaps2shop:10010861
