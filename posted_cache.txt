@@ -1096,3 +1096,4 @@ mintmode:10097372
 vaps2shop:10010861
 ichigoichi39:10006672
 plata:10021421
+hanahanashop:10005503
