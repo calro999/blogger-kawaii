@@ -1102,3 +1102,4 @@ nanafuku01:10006454
 wilmart:10034877
 rairai-shop:10019997
 tigercat:10038926
+wasshoi-mura:10020380
