@@ -1103,3 +1103,4 @@ wilmart:10034877
 rairai-shop:10019997
 tigercat:10038926
 wasshoi-mura:10020380
+syousyafashion:10000871
