@@ -1161,3 +1161,4 @@ fun-and-funny:10010535
 futaba-corp:10007299
 charmy-sanyoh:10281688
 wasshoi-mura:10023641
+pivot-sanyoh:10274703
