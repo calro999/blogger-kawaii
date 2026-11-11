@@ -1179,3 +1179,4 @@ stylife:15666017
 ippo-ippo-shop:10000497
 one-style:10000957
 trefle:10011893
+west-river2020:10174004
