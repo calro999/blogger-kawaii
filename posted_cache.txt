@@ -1192,3 +1192,4 @@ kitchen-b:10258860
 vitafelice:10009041
 adhocplus:10002944
 pivot-sanyoh:10274323
+k-kitchen:10114636
