@@ -1191,3 +1191,4 @@ le-noble:10002446
 kitchen-b:10258860
 vitafelice:10009041
 adhocplus:10002944
+pivot-sanyoh:10274323
