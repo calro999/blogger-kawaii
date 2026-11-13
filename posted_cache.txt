@@ -1202,3 +1202,4 @@ plusnao:10303358
 kizamu:10006451
 original-knit:10011240
 sozomi:10003086
+rinkastore:10000594
