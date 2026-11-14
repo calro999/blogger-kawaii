@@ -1211,3 +1211,4 @@ queeneyes:10000638
 cliffhangar:10001010
 vitafelice:10008889
 one-style:10000956
+interior-palette:10080515
