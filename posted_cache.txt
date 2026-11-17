@@ -1241,3 +1241,4 @@ toraya-fabric:10002578
 kathina:10014634
 union-stores:10007968
 pyokotto:10000468
+uminari:10000036
