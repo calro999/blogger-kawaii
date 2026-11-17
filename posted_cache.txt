@@ -1247,3 +1247,4 @@ semagasin:10016861
 la-graine:12191190
 e-kitchen:10111783
 add-kitchen:10434248
+smile-picotto:10000931
