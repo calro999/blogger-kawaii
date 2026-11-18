@@ -1255,3 +1255,4 @@ kazinaru:10000334
 cosmo-style:10000454
 zakka-gu:10102892
 livingut:10106789
+beads-market:10009753
