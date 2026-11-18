@@ -1251,3 +1251,4 @@ smile-picotto:10000931
 loof-shop:10004217
 akgshop:10030037
 prodigal:10001264
+kazinaru:10000334
