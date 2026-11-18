@@ -1253,3 +1253,4 @@ akgshop:10030037
 prodigal:10001264
 kazinaru:10000334
 cosmo-style:10000454
+zakka-gu:10102892
