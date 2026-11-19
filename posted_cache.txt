@@ -1265,3 +1265,4 @@ zakkashop:10020360
 aoi-depart:10473463
 tokai-base:10002799
 062cake:10000270
+towelshopfriend:10000652
