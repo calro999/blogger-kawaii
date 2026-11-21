@@ -1288,3 +1288,4 @@ trefle:10011651
 plenty-shop:10001113
 cocosuner:10002368
 aoi-depart:10473462
+mignon-interior:10000134
