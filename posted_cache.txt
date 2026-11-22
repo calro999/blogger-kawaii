@@ -1291,3 +1291,4 @@ aoi-depart:10473462
 mignon-interior:10000134
 mzymzy:11469045
 kiitos-web:10010457
+kuromanekineko:10000945
