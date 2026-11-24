@@ -1313,3 +1313,4 @@ nishiki:10021239
 bridgehappy:10001270
 pivot-sanyoh:10234376
 candybox333:10000049
+kazinaru:10000333
