@@ -1318,3 +1318,4 @@ arne-style:10045610
 geki-pla:10060111
 aoi-depart:10473445
 emishop:10009911
+ypshop:10004016
