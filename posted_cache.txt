@@ -1325,3 +1325,4 @@ friendshill-store:10000225
 ls-zero:10006242
 carro:10018245
 krj-s:10001010
+kouso-seikatsu:10000168
