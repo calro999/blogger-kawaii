@@ -1326,3 +1326,4 @@ ls-zero:10006242
 carro:10018245
 krj-s:10001010
 kouso-seikatsu:10000168
+haruharu:10002655
