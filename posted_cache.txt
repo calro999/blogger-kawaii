@@ -1322,3 +1322,4 @@ ypshop:10004016
 ajisai-apt:10004144
 auc-risecreation:10003226
 friendshill-store:10000225
+ls-zero:10006242
